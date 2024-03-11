@@ -1,0 +1,27 @@
+#logo{
+}
+
+body{
+	background-color: #ebeff5;
+}
+
+img{
+width: 10%;
+height: 10%;
+}
+
+/*!* Définir une classe pour le formulaire *!*/
+/*.form-inline {*/
+/*    display: flex; !* Utiliser flexbox pour afficher les éléments en ligne *!*/
+/*    flex-direction: row; !* Définir la direction en ligne *!*/
+/*    justify-content: space-between; !* Espacer les éléments de manière égale *!*/
+/*}*/
+
+/*!* Style pour les étiquettes des champs *!*/
+/*.form-inline label {*/
+/*    margin-right: 10px; !* Ajouter un espacement à droite pour séparer les étiquettes des champs *!*/
+/*}*/
+
+
+
+
